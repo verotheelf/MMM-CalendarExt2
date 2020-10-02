@@ -1,4 +1,4 @@
-Module.register("MMM-CalendarExt2", {
+Module.register("MMM-CalendarExt2", {.
   predefined: {
     notifications: {
       "CALEXT2_SHOW_CALENDAR": {
